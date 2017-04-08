@@ -1,3 +1,8 @@
+# MassHydra
+Massive Hydra Atack for Academic purposes.
+
+Please do not use in military or secret service organizations, or for illegal purposes.
+
 Manual about the Brute Hydra Attack System:
 
 Important files:
