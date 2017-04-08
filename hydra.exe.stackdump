@@ -1,0 +1,8 @@
+Exception: STATUS_ILLEGAL_INSTRUCTION at eip=6E3B11EB
+eax=00000000 ebx=6E3B307C ecx=744D8195 edx=00000000 esi=FFFFFFFF edi=00000041
+ebp=0067C648 esp=0067C600 program=C:\Users\stan\workspace\HydraAttacker\attackers\hydra\hydra.exe, pid 11856, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0067C648  6E3B11EB (00000000, 00000001, 00000000, 00402FB7)
+0067C75F  6E3B1237 (030D4000, 00000000, 00000000, 00000000)
